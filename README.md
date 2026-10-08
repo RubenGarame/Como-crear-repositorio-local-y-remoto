@@ -8,8 +8,8 @@
 4. Crea un archivo con el nombre que quieras ej: `mi-proyecto`
 5. Comprueba el estado con el comando `git status`
 6. Añade el archivo con el comando `git add mi-proyecto`
-7. haz un commit con el comando `git commit -m<primer commit>`
-8. AY para cargarlo en el local utiliza el comando `git push`
+7. Haz un commit con el comando `git commit -m<primer commit>`
+8. Y para cargarlo en el local utiliza el comando `git push`
 
 
 
