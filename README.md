@@ -1,4 +1,4 @@
-# Crea tu propio repositorio loca y remoto
+# Crea tu propio repositorio local y remoto
 
 ## Pasos a seguir 
 
